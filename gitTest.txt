@@ -7,3 +7,5 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:zhaojun0193/git-.git
 git push -u origin master
+
+这一行是在github上添加的
